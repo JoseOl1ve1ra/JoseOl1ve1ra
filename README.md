@@ -1,7 +1,7 @@
 ### Ola! Sou Jose Oliveira
 
 - 🔭 Hoje trabalho como Técnico de Manutenção no (@McDonalds_BR)
-- 🌱 Estudo JavaScript -Type Script -React-Html5 -Css3 -Phyton -Csharp
+- 🌱 Estudo JavaScript -T-React-Html5 -Css-NodeJs
 
 <div align="center">
   <a href="https://github.com/JoseOl1ve1ra">
